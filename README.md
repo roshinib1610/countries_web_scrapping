@@ -13,13 +13,12 @@ Saves data into a structured Excel file (countries.xlsx)
 Simple and beginner-friendly implementation
 
 **Technologies Used**
-Python
-BeautifulSoup (for parsing HTML)
-Requests (for HTTP requests)
-OpenPyXL (for Excel file handling)
+1.Python
+2.BeautifulSoup (for parsing HTML)
+3.Requests (for HTTP requests)
+4.OpenPyXL (for Excel file handling)
 
 **Output**
-
 The Excel file will contain the following columns:
 
 S.No
@@ -29,6 +28,6 @@ Population
 Area (km²)
 
 **Use Cases**
-Learning web scraping basics
-Data extraction and automation
-Practice working with Excel files in Python
+*Learning web scraping basics
+*Data extraction and automation
+*Practice working with Excel files in Python
